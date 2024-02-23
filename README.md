@@ -11,7 +11,7 @@ Results: Using bulleted lists and images to support your answers, address the fo
 * The feature variables are every other column from application_df --> this was defined by dropping the 'IS_SUCCESSFUL' column from the original dataframe
 * Both 'EIN' and 'NAME' columns were dropped/removed, because they were neither targets nor features for the dataset.
 
-## ompiling, Training, and Evaluating the Model
+## Compiling, Training, and Evaluating the Model
 
 * In the first attempt, 8 hidden_nodes_layer1 and 5 hidden_nodes_layer2
 * I was not able to achieve the 75% model accuracy target
